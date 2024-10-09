@@ -127,7 +127,7 @@ img {
   min-height: 100vh;
   padding: 240px 0;
   margin-top: -100px;
-  background-image: url(/images/welcome-bg.jpg);
+  background-image: url(images/welcome-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -299,19 +299,19 @@ img {
 }
 
 .card__queen {
-  background-image: url(/images/product-1.jpg);
+  background-image: url(images/product-1.jpg);
 }
 
 .card__hut {
-  background-image: url(/images/product-2.jpg);
+  background-image: url(images/product-2.jpg);
 }
 
 .card__king {
-  background-image: url(/images/product-3.jpg);
+  background-image: url(images/product-3.jpg);
 }
 
 .card__papa {
-  background-image: url(/images/product-4.jpg);
+  background-image: url(images/product-4.jpg);
 }
 
 /* Фидбек */
@@ -337,7 +337,7 @@ img {
 }
 
 .feedback__text::before {
-  content: url(/images/icons/quote.svg);
+  content: url(images/icons/quote.svg);
 }
 
 .feedback__desc {
@@ -416,7 +416,7 @@ img {
 }
 
 .footer__link-mail::before {
-  content: url(./images/icons/mail.svg);
+  content: url(images/icons/mail.svg);
 }
 
 .footer__link::before {
@@ -431,7 +431,7 @@ img {
 }
 
 .footer__link-web::before {
-  content: url(./images/icons/global.svg);
+  content: url(images/icons/global.svg);
 }
 
 .footer__nav {
